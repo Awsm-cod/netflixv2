@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Sorts+Mill+Goudy:ital@1&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 body{
-    /*background-image: url(./img/netflix\ background.jpg 1.png);
+    /* background-image: url(./img/netflix\ background.jpg 1.png);
     */
 }
 #container{
@@ -22,4 +23,12 @@ body{
 }
 span{
     color: #ff0000
+}
+#description{
+    font-family: 'Sorts Mill Goudy', serif;
+    /*color: white;*/
+}
+#header{
+    text-align: center;
+
 }
